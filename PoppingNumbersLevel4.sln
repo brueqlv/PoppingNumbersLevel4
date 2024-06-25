@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoppingNumbersLevel4", "PoppingNumbersLevel4\PoppingNumbersLevel4.csproj", "{01F0DCD6-A5C2-4503-A96E-53FBCEAA352C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoppingNumbersLevel4Tests", "PoppingNumbersLevel4Tests\PoppingNumbersLevel4Tests.csproj", "{85FDBE6C-5D44-4667-9CAE-7AC6E0A68042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F0DCD6-A5C2-4503-A96E-53FBCEAA352C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F0DCD6-A5C2-4503-A96E-53FBCEAA352C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F0DCD6-A5C2-4503-A96E-53FBCEAA352C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F0DCD6-A5C2-4503-A96E-53FBCEAA352C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85FDBE6C-5D44-4667-9CAE-7AC6E0A68042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85FDBE6C-5D44-4667-9CAE-7AC6E0A68042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85FDBE6C-5D44-4667-9CAE-7AC6E0A68042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85FDBE6C-5D44-4667-9CAE-7AC6E0A68042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAF17AE1-4726-4654-88E2-F71EB4FE2980}
+	EndGlobalSection
+EndGlobal
